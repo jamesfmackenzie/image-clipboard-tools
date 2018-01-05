@@ -1,0 +1,5 @@
+C:\code\CopyPngToClipboard\CopyPngToClipboard\bin\Debug\CopyPngToClipboard.exe.config
+C:\code\CopyPngToClipboard\CopyPngToClipboard\bin\Debug\CopyPngToClipboard.exe
+C:\code\CopyPngToClipboard\CopyPngToClipboard\bin\Debug\CopyPngToClipboard.pdb
+C:\code\CopyPngToClipboard\CopyPngToClipboard\obj\Debug\CopyPngToClipboard.exe
+C:\code\CopyPngToClipboard\CopyPngToClipboard\obj\Debug\CopyPngToClipboard.pdb
